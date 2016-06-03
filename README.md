@@ -34,7 +34,8 @@ last fully updated / checked (idem)
 - [Simon Peyton Jones - The Implementation of Functional Programming Languages](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987)
 > free (and actually about SML, but pretty much explains how a Haskell compiler works)
 
-
+- [Chris Okasaki - Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
+> free (also in SML, but applies to all pure functional languages)
 
 # Papers
 
@@ -44,19 +45,32 @@ last fully updated / checked (idem)
 
 - [Philipp Wadler, Simon Peyton Jones - Imperative Functional Programming](http://doai.io/10.1145/158511.158524)
 
+- [Martin Grabmüller - Monad Transformers Step by Step](http://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/monad-transformers-step-by-step.pdf)
+
 - [Koen Claessen, John Hughes - QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs](http://www.eecs.northwestern.edu/~robby/courses/395-495-2009-fall/quick.pdf) 
 
 - [Edward Z. Yang - Adventures in Three Monads](http://code.haskell.org/~byorgey/TMR/Issue15/Issue15.pdf#page=11)
-
-- [Heinrich Apfelmus - The Operational Monad Tutorial](http://code.haskell.org/~byorgey/TMR/Issue15/Issue15.pdf#page=37)
-  (also available as [blog post](http://apfelmus.nfshost.com/articles/operational-monad.html)
 
 - [Daan Leijen, Eric Meijer - Parsec: Direct Style Monadic Parser Combinators
 For The Real World](http://dspace.library.uu.nl/bitstream/handle/1874/2535/2001-35.pdf)
 
 - [Conor McBride, Ross Patterson - Applicative Programming with Effects](http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf)
 
-- [John Launchbury, Simon Peyton Jones - Lazy Functional State Threads](http://doai.io/10.1145/178243.178246)
+
+
+## More Specialized Topics ##
+
+- [John Launchbury, Simon Peyton Jones - Lazy Functional State Threads](http://doai.io/10.1145/178243.178246) (On the `ST` 
+  monad)
+
+- [Heinrich Apfelmus - The Operational Monad Tutorial](http://code.haskell.org/~byorgey/TMR/Issue15/Issue15.pdf#page=37)
+  (On a variant of free monads/interpreters; also available as a [blog post](http://apfelmus.nfshost.com/articles/operational-monad.html)
+  and a [package](https://s3.amazonaws.com/haddock.stackage.org/lts-6.1/operational-0.2.3.2/Control-Monad-Operational.html))
+
+- [Ralf Lämmel, Simon Peyton Jones - Scrap your boilerplate](http://doai.io/10.1145/604174.604179) (The classic generic 
+  programming approach in Haskell)
+
+- [John C. Baez, Mike Stay - Physics, Topology, Logic, and Computation: A Rosetta Stone](http://math.ucr.edu/home/baez/rosetta.pdf) (Basics of category theory by practical examples from different disciplines)
 
 
 
