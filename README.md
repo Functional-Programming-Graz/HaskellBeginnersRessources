@@ -31,7 +31,8 @@ last fully updated / checked (idem)
 - [Kees Doets and Jan van Eijck - The Haskell Road to Logic, Math and Programming](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
 > free
 
-
+- [Simon Peyton Jones - The Implementation of Functional Programming Languages](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987)
+> free (and actually about SML, but pretty much explains how a Haskell compiler works)
 
 
 
