@@ -147,7 +147,10 @@ For The Real World](http://dspace.library.uu.nl/bitstream/handle/1874/2535/2001-
 
 # Blogs
 - [Dan Piponi - A Neighborhood of Infinity ](http://blog.sigfpe.com/) 
-
+- [Jeremy Gibbons - Patterns in Functional Programming Languages](https://patternsinfp.wordpress.com/)
+- [Chris Taylor - Math, Haskell, other stuff](http://chris-taylor.github.io/)
+- [Richard Eisenberg - Types and Kinds](https://typesandkinds.wordpress.com/)
+- [Gabriel Gonzales - Haskell for all](http://www.haskellforall.com/)
 
 
 
