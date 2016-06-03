@@ -42,10 +42,21 @@ last fully updated / checked (idem)
 
 - [Philip Wadler - Comprehending monads](http://www.diku.dk/hjemmesider/ansatte/henglein/papers/wadler1992.pdf) 
 
+- [Philipp Wadler, Simon Peyton Jones - Imperative Functional Programming](http://doai.io/10.1145/158511.158524)
+
 - [Koen Claessen, John Hughes - QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs](http://www.eecs.northwestern.edu/~robby/courses/395-495-2009-fall/quick.pdf) 
 
+- [Edward Z. Yang - Adventures in Three Monads](http://code.haskell.org/~byorgey/TMR/Issue15/Issue15.pdf#page=11)
 
+- [Heinrich Apfelmus - The Operational Monad Tutorial](http://code.haskell.org/~byorgey/TMR/Issue15/Issue15.pdf#page=37)
+  (also available as [blog post](http://apfelmus.nfshost.com/articles/operational-monad.html)
 
+- [Daan Leijen, Eric Meijer - Parsec: Direct Style Monadic Parser Combinators
+For The Real World](http://dspace.library.uu.nl/bitstream/handle/1874/2535/2001-35.pdf)
+
+- [Conor McBride, Ross Patterson - Applicative Programming with Effects](http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf)
+
+- [John Launchbury, Simon Peyton Jones - Lazy Functional State Threads](http://doai.io/10.1145/178243.178246)
 
 
 
